@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jichao Chen"
+  name             : "陈吉超"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "China Hubei"
+  bio              : "七零一研究所"
+  location         : "中国 湖北"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
